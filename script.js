@@ -369,6 +369,7 @@ function downloadMovie(key) {
                 <a class="closebutton" onclick="closePopupdiv()">x</a>
                     <input id="input_download_section_inner" class="input_download_section_inner" type="text" value="` + downloadurl + `" disabled="disabled">
                     <a href="` + downloadurl + `" class="downloadbutton">download</a>
+                    <a href="http://127.0.0.1:9666/flash/add?urls=` + downloadurl + `" class="jdownloaderbutton" target="_blank">jdownloader_icon</a>
                     </div>
             </div>`
             popupDiv.style.display = "flex";
@@ -410,6 +411,7 @@ function downloadEpisode(key) {
             <a class="closebutton" onclick="closePopupdiv2()">x</a>
                 <input id="input_download_section_inner" class="input_download_section_inner" type="text" value="` + downloadurl + `" disabled="disabled">
                 <a href="` + downloadurl + `" class="downloadbutton">download</a>
+                <a href="http://127.0.0.1:9666/flash/add?urls=` + downloadurl + `" class="jdownloaderbutton" target="_blank">jdownloader_icon</a>
                 </div>
         </div>`
             popupDiv2.style.display = "flex";
