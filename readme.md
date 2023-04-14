@@ -17,7 +17,7 @@
 
 
 ## Usage
-visit [plexer.me](https://plexer.me) or the [repos page](https://eliasthecactus.github.io/Plexer/)
+Visit [Plexer](https://eliasthecactus.github.io/Plexer/) for HTTPS or use [HTTP Plexer](http://plexer.rf.gd/) if te Plex Server runs on HTTP
 
 
 ## 📃 ToDo
